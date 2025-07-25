@@ -319,6 +319,6 @@ curl -X DELETE http://localhost:8080/api/v1/enrollments/drop/STD001/CS101
 
 ---
 
-## 👩‍💻 Author
+## 🧑‍💻 Author
 
 Built with 💻 by Mohammed Alherz
